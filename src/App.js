@@ -8,7 +8,7 @@ class Navbar extends React.Component {
   render (){
     return (
       <div className="navbar">
-        <a href="https://github.com/kvo189/calulator">View On Github</a>
+        <a href="https://github.com/kvo189/calculator">View On Github</a>
       </div>
     );
   }
