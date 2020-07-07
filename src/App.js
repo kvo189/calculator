@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 
 const isOperator = /[*/+-]/,
-isOperatorPositive = /[*/+]/;
 
 class Navbar extends React.Component {
   render (){
